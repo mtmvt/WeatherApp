@@ -1,2 +1,1 @@
-!!!!!!!!!!! Try Me !!!!!!!!!!!!!!!
-https://mtmvt.github.io/WeatherApp/
+Try Me Demo : https://mtmvt.github.io/WeatherApp/
